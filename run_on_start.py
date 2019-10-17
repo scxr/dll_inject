@@ -1,4 +1,5 @@
 """
+Made by cswil : https://github.com/cswil
 A script that adds the program to startup
 """
 import os
